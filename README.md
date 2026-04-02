@@ -6,10 +6,10 @@ demo video - https://www.youtube.com/watch?v=qEZXpI9APYk
 https://iostindex.com/?filter0Availability=Available,DIY&filter1ButtplugSupport=4
 612 Confirmed devices and counting
 
+If anyone has any questions or help on setting this up. Send me a dm on discord
+420goonpig
+
 AnalBeats is a small Rust app that connects Beat Saber (through BSDataPuller) to Intiface/Buttplug toys.
-
-
-
 It runs a local web dashboard where you can:
 
 
