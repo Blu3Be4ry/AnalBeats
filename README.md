@@ -1,3 +1,5 @@
+![really cool frickin logo](analbeater.png)
+
 demo video - https://www.youtube.com/watch?v=qEZXpI9APYk
 
 
